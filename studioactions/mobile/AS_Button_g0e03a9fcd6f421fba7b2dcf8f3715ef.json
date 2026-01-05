@@ -1,0 +1,23 @@
+{
+    "AS_Button_g0e03a9fcd6f421fba7b2dcf8f3715ef": {
+        "id": "AS_Button_g0e03a9fcd6f421fba7b2dcf8f3715ef",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b7ef823fc248473b873337cbbaec7b47"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_a92485be151a44559f75e526ae1849e1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"CUPCAKE\");",
+            "parentId": null
+        }]
+    }
+}
